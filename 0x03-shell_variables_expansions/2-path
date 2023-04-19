@@ -1,2 +1,2 @@
-#!/bin/ba
-echo "hello $USER"
+#!/bin/bash
+echo PATH=$PATH:/action
